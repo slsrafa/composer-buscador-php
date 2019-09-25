@@ -1,3 +1,4 @@
 #   DOCUMENTAÇÃO DO COMPONENTE
 
 XCS
+Supimpa!
