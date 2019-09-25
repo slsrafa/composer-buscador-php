@@ -1,7 +1,7 @@
+#!/usr/bin/env php
 <?php
 
 require 'vendor/autoload.php';
-require  'functions.php';
 
 
 use Alura\BuscadorDeCursos\Buscador;
